@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.1](https://github.com/svoboda-rabstvo/react-intl-lint/compare/v1.0.0...v1.0.1) (2023-01-14)
+
+
+### Bug Fixes
+
+* readme ([1e35b28](https://github.com/svoboda-rabstvo/react-intl-lint/commit/1e35b283b74d0c0234f8687b815996947c9d8ac2))
+
 # 1.0.0 (2023-01-14)
 
 
