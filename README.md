@@ -23,7 +23,7 @@
 
 ## Background
 
-There are a lot of translation [`react-intl`][react-intl] keys in the whole app.
+There are a lot of translation `react-intl` keys in the whole app.
 This repository contains a proposal to check all translation keys in the whole app
 which should exist in all languages files.
 
