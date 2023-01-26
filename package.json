@@ -1,7 +1,7 @@
 {
     "author": "Raman Lauryniuk <romanrostislavovich@gmail.com>",
     "name": "react-intl-lint",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Simple tools for check `react-intl` keys in app",
     "license": "MIT",
     "repository": "svoboda-rabstvo/react-intl-lint",
