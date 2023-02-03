@@ -1,6 +1,6 @@
 # react-intl-lint
 
-> Simple tools for check react-intl keys in whole app which use regexp
+> Simple tools for check react-intl keys in whole app which use regexp.
 
 [![semantic](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![npm](https://img.shields.io/npm/v/react-intl-lint.svg)](https://www.npmjs.com/package/react-intl-lint)
